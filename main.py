@@ -15,7 +15,7 @@ session.proxies = {}
 session.proxies['http'] = 'socks5h://127.0.0.1:9050'
 session.proxies['https'] = 'socks5h://127.0.0.1:9050'
 
-print("\nConnected to TOR...")
+print("\nConnecting to TOR...")
 
 # they would know we are a Python script, what library we are using, and some version info. 
 # We can change this.

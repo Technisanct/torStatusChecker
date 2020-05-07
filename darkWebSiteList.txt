@@ -1,0 +1,31 @@
+#List of Notorius dark web platforms monitored by Technisanct for threat hunting.
+
+http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion
+
+http://avengersdutyk3xf.onion
+
+http://dnmugu4755642434.onion
+
+http://cannabmgae3mkekotfzsyrx5lqg7lj7hgcn6t4rumqqs5vnvmuzsmfqd.onion/
+
+http://rutor26seakon7v2.onion
+
+http://thehubeebh6z6pqdy4wmxdd6d45gmchjm3xe5sdppadna7m3qtmksmid.onion/
+
+http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
+
+http://nonamemqwl2lslts.onion/emailit.html -No Name Hacking group
+
+http://torum43tajnrxritn4iumy75giwb5yfw6cjq2czjikhtcac67tfif2yd.onion/index.php
+
+http://ekbgzchl6x2ias37.onion
+
+http://freerj4lgqdjjuk6.onion/ - Free Market
+
+http://rutor26seakon7v2.onion/ - Rutor
+
+https://darkcartel.pw
+
+https://hackforums.net/ -Hack Forum
+
+http://igoz2dm6vqo3nuweg3vztqszxprugx2lb6xxbrmz2tkec37gc2vkd5yd.onion/ - Empire Market
