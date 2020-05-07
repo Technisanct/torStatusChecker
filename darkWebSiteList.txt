@@ -1,4 +1,4 @@
-#List of Notorious dark web platforms monitored by Technisanct for threat hunting.
+## List of few Notorious Dark Web platforms
 
 http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion
 
