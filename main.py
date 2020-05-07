@@ -35,6 +35,6 @@ try:
 
 except:
     
-    print("Connection FAILED!")
+    print("\nConnection FAILED!")
 
 print("\nDone!\n")
